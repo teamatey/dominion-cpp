@@ -8,4 +8,4 @@ While the code currently supports the logical back-end of Dominion's game mechan
 
 ## Future
 
-This project may be converted to JavaScript for an interactive web application.
+This project may be converted to JavaScript for an interactive web application. In addition, the game will feature a Resolution phase that will allow other players to take permitted actions when it is not their turn.
